@@ -1,0 +1,2 @@
+CLI program support USB\_TO\_XXX of Versaloon.
+Support AVR\_ISP/JTAG, S51\_ISP, C8051F\_JTAG/C2, STM32\_ISP, MSP430\_JTAG, PSOC\_ISSP, SVF\_PLAYER.
